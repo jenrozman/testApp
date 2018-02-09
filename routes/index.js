@@ -1,7 +1,7 @@
 var express = require('express');
 var router = express.Router();
 
-const templateTypes [
+const templateTypes = [
   { name: "Jade", usefulness : "sucky"},
   { name: "EJS", usefulness : "a little better"},
   { name: "Handlebars", usefulness : "awesomesauce"}
